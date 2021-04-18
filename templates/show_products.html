@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>scrapped page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+
+    <h1 style="text-align: center">Products Scrapped</h1>
+<div align="center">
+    <table align="center" cellspacing="0">
+        <tr>
+            <th>Product</th>
+        </tr>
+
+        {% for ap in available_products %}
+        <tr></tr>
+            <td><a href="/results?name={{ap}}">{{ap}}</a></td>
+
+        {% endfor %}
+    </table>
+    </div>
+
+{% endblock %}

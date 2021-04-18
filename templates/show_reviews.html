@@ -1,0 +1,38 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Reviews Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+
+    <h1 style="text-align: center">Showing {{review_counts}} Reviews</h1>
+
+    <table align="center" cellspacing="0">
+        <tr>
+            <th>Product ID</th>
+            <th>Product Name</th>
+            <th>Name</th>
+             <th>Rating</th>
+             <th>Likes</th>
+             <th>Dislikes</th>
+             <th>CommentHead</th>
+             <th>Comment</th>
+        </tr>
+        {% for p in products %}
+        <tr>
+            <td>{{p['Product_ID']}}</td>
+            <td>{{p['Product_Name']}}</td>
+            <td>{{p['Name']}}</td>
+            <td>{{p['Rating']}}</td>
+            <td>{{p['Likes']}}</td>
+            <td>{{p['Dislikes']}}</td>
+            <td>{{p['CommentHead']}} </td>
+            <td>{{p['Comment']}}</td>
+
+        {% endfor %}
+    </table>
+
+{% endblock %}

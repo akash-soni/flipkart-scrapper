@@ -1,0 +1,60 @@
+{% extends 'base.html' %}
+
+{% block head %}
+  <title>Product Details Page</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+    <div class="header">Product Details</div>
+    <table cellspacing="0">
+        <tr>
+            <th>Product ID</th>
+            <th>Product Images</th>
+            <th>Review Graph </th>
+            <th>Product Name</th>
+            <th>Product Full Name</th>
+            <th>Overall Ratings</th>
+            <th>Total Reviews</th>
+            <th>Total Ratings</th>
+            <th>Extra Discount</th>
+            <th>Price</th>
+            <th>Maximum Price</th>
+            <th>Percent_off</th>
+            <th>5 Stars</th>
+            <th>4 Stars</th>
+            <th>3 Stars</th>
+            <th>2 Stars</th>
+            <th>1 Stars</th>
+            <th>Options</th>
+            <th>Highlights</th>
+            <th>Easy Payment Options</th>
+            <th>Description</th>
+        </tr>
+        {% for review in reviews %}
+        <tr>
+            <td><a href="/show_reviews?product_name={{review['Product_ID']}}">{{review['Product_ID']}}</a></td>
+            <td><a href="/show_images?product_name={{review['Product_ID']}}">images</a></td>
+            <td><a href="/show_graphs?product_name={{review['Product_ID']}}">Graphs</a></td>
+            <td>{{review['Product_Name']}}</td>
+            <td>{{review['Product_Full_Name']}}</td>
+            <td>{{review['Overall_ratings']}}</td>
+            <td>{{review['Total_Reviews']}}</td>
+            <td>{{review['Total_Ratings']}}</td>
+            <td>{{review['Extra_Discount']}} </td>
+            <td>{{review['Price']}}</td>
+            <td>{{review['Maximum_Price']}}</td>
+            <td>{{review['Percent_off']}}</td>
+            <td>{{review['5Stars']}} </td>
+            <td>{{review['4Stars']}} </td>
+            <td>{{review['3Stars']}} </td>
+            <td>{{review['2Stars']}} </td>
+            <td>{{review['1Stars']}} </td>
+            <td>{{review['Options']}} </td>
+            <td>{{review['Highlights']}} </td>
+            <td>{{review['Easy_Payment_Options']}} </td>
+            <td>{{review['Description']}} </td>
+        {% endfor %}
+    </table>
+
+{% endblock %}

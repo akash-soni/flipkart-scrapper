@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Graph Page</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/image_disp.css') }}">
+{% endblock %}
+
+{% block body %}
+
+    <h1 style="text-align: center">Graphs</h1>
+
+      <img src="/static/plot.png" alt="Image Placeholder">
+
+
+{% endblock %}

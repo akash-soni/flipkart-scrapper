@@ -1,0 +1,21 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Reviews Page</title>
+
+<link rel="stylesheet" href="{{ url_for('static', filename='css/image_disp.css') }}">
+{% endblock %}
+
+{% block body %}
+
+    <h1 style="text-align: center">Images</h1>
+
+    {% for name in image_name %}
+    <img src="{{ url_for('static', filename='images/'+ folder +'/' + name) }}" >
+
+    {% endfor %}
+
+</div>
+
+{% endblock %}

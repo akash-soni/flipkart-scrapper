@@ -1,0 +1,46 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>Search Page</title>
+<link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+{% endblock %}
+
+{% block body %}
+
+    <h1 style="text-align: center">Search</h1>
+
+    <div class="form" style="width:515px; margin:0 auto;">
+        <form action="/" method="POST">
+            <table align="centre" border="0" cellpadding="0" cellspacing="0">
+                <tr>
+                    <td><label>Enter product to be searched:</label></td>
+                    <td><input type="text" name="content" id="content"></td>
+                </tr>
+                <tr>
+                    <td><label>Required number of products to be scrapped</label></td>
+                    <td><input type="text" name="product_qty" id="product_qty"></td>
+                </tr>
+                <tr>
+                    <td><label>Number of Reviews required for each product</label></td>
+                    <td><input type="text" name="review_qty" id="review_qty"></td>
+                </tr>
+                <tr>
+                    <td><label>Number of images required for each product</label></td>
+                    <td><input type="text" name="image_qty" id="image_qty"></td>
+                </tr>
+                <tr>
+                    <td style="text-align:centre" colspan="2"><input type="submit" value="Search"></td>
+                </tr>
+            </table>
+        </form>
+    </div>
+        <table>
+            <tr>
+                <td><a href="/show_products">show available data</a></td>
+            </tr>
+        </table>
+    <div>
+
+    </div>
+{% endblock %}

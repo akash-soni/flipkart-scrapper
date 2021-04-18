@@ -1,0 +1,199 @@
+2021-04-13 21:02:33,915 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-13 21:02:44,386 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-13 21:03:00,477 - scrapper application - INFO - search string : lava, product quantity : , reviews quantitiy : 
+2021-04-13 21:04:55,409 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-13 21:11:40,351 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-13 21:13:21,029 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-13 21:13:46,357 - scrapper application - INFO - finding search string in DB
+2021-04-13 21:13:49,485 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 12:45:44,560 - scrapper application - INFO - search string : lava mobile, product quantity : , reviews quantitiy : 
+2021-04-14 12:45:45,949 - scrapper application - INFO - finding search string in DB
+2021-04-14 12:45:46,691 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 12:46:33,644 - scrapper application - INFO - showing images of lava_mobile_1
+2021-04-14 12:46:40,630 - scrapper application - INFO - showing reviews for lava_mobile_1
+2021-04-14 14:30:51,049 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 14:31:27,483 - scrapper application - INFO - showing images of lava_mobile_1
+2021-04-14 14:32:18,767 - scrapper application - INFO - showing reviews for lava_mobile_1
+2021-04-14 14:38:54,973 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 14:38:58,061 - scrapper application - INFO - showing reviews for dell_laptop_1
+2021-04-14 14:39:08,321 - scrapper application - INFO - showing reviews for dell_laptop_1
+2021-04-14 14:39:18,121 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 14:39:21,713 - scrapper application - INFO - showing reviews for lava_mobile_4
+2021-04-14 14:42:36,441 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 14:42:43,554 - scrapper application - INFO - showing reviews for lava_mobile_1
+2021-04-14 14:42:53,208 - scrapper application - INFO - showing images of lava_mobile_1
+2021-04-14 14:45:14,752 - scrapper application - INFO - search string : bose headphones, product quantity : 10, reviews quantitiy : 500
+2021-04-14 14:45:14,830 - scrapper application - INFO - finding search string in DB
+2021-04-14 14:45:30,801 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 14:45:42,772 - scrapper application - INFO - got 10 product Hyperlinks 
+2021-04-14 14:46:01,620 - scrapper application - INFO - product details saved to db for Bose Sport Earbuds Bluetooth Headset
+2021-04-14 14:46:13,035 - scrapper application - INFO - reviews saved in bose_headphones_1
+2021-04-14 14:46:47,335 - scrapper application - INFO - product details saved to db for Bose Soundsport Free True Wireless Bluetooth Headset
+2021-04-14 14:54:00,378 - scrapper application - INFO - reviews saved in bose_headphones_2
+2021-04-14 14:54:27,128 - scrapper application - INFO - product details saved to db for Bose SoundSport Bluetooth Headset
+2021-04-14 15:00:25,178 - scrapper application - INFO - reviews saved in bose_headphones_3
+2021-04-14 15:09:25,317 - scrapper application - INFO - search string : Whelked BO.SE Boom , product quantity : , reviews quantitiy : 
+2021-04-14 15:09:36,946 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:09:49,503 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:10:01,361 - scrapper application - INFO - got 1 product Hyperlinks 
+2021-04-14 15:13:39,583 - scrapper application - INFO - search string : Whelked BO.SE Boom , product quantity : , reviews quantitiy : 
+2021-04-14 15:13:46,620 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:13:54,318 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:14:09,239 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 15:25:12,878 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|Noise, product quantity : , reviews quantitiy : 
+2021-04-14 15:25:51,302 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:25:59,715 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:26:16,514 - scrapper application - INFO - got 1 product Hyperlinks 
+2021-04-14 15:28:32,518 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:28:56,908 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:29:04,335 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:29:17,885 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 15:31:03,910 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:31:09,723 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:31:16,767 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:32:33,806 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 15:36:09,507 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:36:39,381 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:36:48,098 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:37:00,690 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 15:43:13,469 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:43:14,692 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:43:17,416 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:43:26,774 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 15:48:08,393 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:48:09,557 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:48:12,431 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:48:21,848 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 15:57:58,160 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 15:57:59,378 - scrapper application - INFO - finding search string in DB
+2021-04-14 15:58:02,143 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 15:58:14,536 - scrapper application - INFO - got 4 product Hyperlinks 
+2021-04-14 16:03:01,137 - scrapper application - INFO - search string : Whelked BO.SE Boom Beat Wireless Gym Headset Mic|FM|TF|NoiseCancellation Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 16:03:02,373 - scrapper application - INFO - finding search string in DB
+2021-04-14 16:03:05,689 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 16:03:24,549 - scrapper application - INFO - got 3 product Hyperlinks 
+2021-04-14 17:39:39,643 - scrapper application - INFO - search string : OBDIR BO.SE Sweat Proof Sports Magnetic Earbuds Boom Beat Ultra Bass Bluetooth, product quantity : , reviews quantitiy : 
+2021-04-14 17:39:40,959 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:39:44,833 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 17:39:53,950 - scrapper application - INFO - got 5 product Hyperlinks 
+2021-04-14 17:49:52,131 - scrapper application - INFO - search string : OBDIR High Bass J.B.L Crystal Clear sound|Boom Beat|Sports Headphone Bluetooth Headset, product quantity : , reviews quantitiy : 
+2021-04-14 17:50:01,653 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:50:52,818 - scrapper application - INFO - search string : OBDIR High Bass J.B.L Crystal Clear sound|Boom Beat|Sports Headphone Bluetooth Headset, product quantity : , reviews quantitiy : 
+2021-04-14 17:50:58,244 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:51:31,916 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 17:51:41,893 - scrapper application - INFO - got 1 product Hyperlinks 
+2021-04-14 17:53:33,589 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 17:53:34,821 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:53:37,438 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 17:55:12,313 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 17:55:13,488 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:55:16,213 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 17:56:09,066 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 17:56:09,165 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:56:12,711 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 17:58:26,071 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 17:58:51,702 - scrapper application - INFO - finding search string in DB
+2021-04-14 17:59:03,645 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:02:21,400 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 18:02:26,283 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:02:35,186 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:16:34,845 - scrapper application - INFO - search string : realme x, product quantity : , reviews quantitiy : 
+2021-04-14 18:16:43,849 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:16:50,212 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:27:25,803 - scrapper application - INFO - search string : realme x, product quantity : 2, reviews quantitiy : 
+2021-04-14 18:27:32,457 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:27:42,507 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:28:55,987 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 18:37:27,718 - scrapper application - INFO - search string : realme x, product quantity : 2, reviews quantitiy : 
+2021-04-14 18:37:28,937 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:37:32,128 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:37:59,230 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 18:40:13,228 - scrapper application - INFO - product details saved to db for realme X (Space Blue, 128 GB)
+2021-04-14 18:48:57,305 - scrapper application - INFO - search string : realme x, product quantity : 2, reviews quantitiy : 20
+2021-04-14 18:48:58,407 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:49:01,082 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:49:13,070 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 18:49:41,247 - scrapper application - INFO - product details saved to db for realme X (Space Blue, 128 GB)
+2021-04-14 18:50:15,661 - scrapper application - INFO - reviews saved in realme_x_1
+2021-04-14 18:50:47,117 - scrapper application - INFO - product details saved to db for realme X (Onion, 128 GB)
+2021-04-14 18:51:16,448 - scrapper application - INFO - reviews saved in realme_x_2
+2021-04-14 18:51:28,116 - scrapper application - INFO - showing reviews for realme_x_1
+2021-04-14 18:51:34,102 - scrapper application - INFO - showing reviews for realme_x_2
+2021-04-14 18:51:37,492 - scrapper application - INFO - showing images of realme_x_1
+2021-04-14 18:51:41,219 - scrapper application - INFO - showing images of realme_x_2
+2021-04-14 18:52:09,539 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 18:52:14,227 - scrapper application - INFO - showing reviews for bose_headphones_1
+2021-04-14 18:52:33,592 - scrapper application - INFO - showing images of bose_headphones_1
+2021-04-14 18:53:12,929 - scrapper application - INFO - showing reviews for bose_headphones_1
+2021-04-14 18:53:26,789 - scrapper application - INFO - showing images of bose_headphones_2
+2021-04-14 18:53:34,300 - scrapper application - INFO - showing images of bose_headphones_3
+2021-04-14 18:53:40,032 - scrapper application - INFO - showing reviews for bose_headphones_2
+2021-04-14 18:53:46,370 - scrapper application - INFO - showing reviews for bose_headphones_3
+2021-04-14 18:54:40,489 - scrapper application - INFO - search string : OBDIR High Bass J.B.L Crystal Clear sound|Boom Beat|Sports Headphone , product quantity : 2, reviews quantitiy : 20
+2021-04-14 18:54:40,561 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:54:43,474 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:54:52,222 - scrapper application - INFO - got 1 product Hyperlinks 
+2021-04-14 18:55:10,156 - scrapper application - INFO - product details saved to db for OBDIR High Bass J.B.L Crystal Clear sound|Boom Beat|Sports Headphone Bluetooth Headset
+2021-04-14 18:55:12,279 - scrapper application - INFO - reviews saved in OBDIR_High_Bass_JBL_Crystal_Clear_sound_Boom_Beat_Sports_Headphone__1
+2021-04-14 18:55:18,616 - scrapper application - INFO - showing reviews for OBDIR_High_Bass_JBL_Crystal_Clear_sound_Boom_Beat_Sports_Headphone__1
+2021-04-14 18:55:24,489 - scrapper application - INFO - showing images of OBDIR_High_Bass_JBL_Crystal_Clear_sound_Boom_Beat_Sports_Headphone__1
+2021-04-14 18:56:35,336 - scrapper application - INFO - search string : OBDIR BO.SE Sweat Proof Sports Magnetic Earbuds Boom Beat Ultra Bass Bluetooth Headset , product quantity : 2, reviews quantitiy : 20
+2021-04-14 18:56:35,532 - scrapper application - INFO - finding search string in DB
+2021-04-14 18:56:38,161 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 18:56:49,448 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 18:57:05,785 - scrapper application - INFO - product details saved to db for OBDIR High Bass J.B.L Crystal Clear sound|Boom Beat|Sports Headphone Bluetooth Headset
+2021-04-14 18:57:07,951 - scrapper application - INFO - reviews saved in OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__1
+2021-04-14 18:57:24,886 - scrapper application - INFO - product details saved to db for OBDIR BO.SE Wireless Boom Beat Ultra Bass Rechargeable Neckband Bluetooth Headset
+2021-04-14 18:58:39,515 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 18:58:43,152 - scrapper application - INFO - showing reviews for OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__2
+2021-04-14 18:58:47,308 - scrapper application - INFO - showing reviews for OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__1
+2021-04-14 18:58:53,299 - scrapper application - INFO - showing images of OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__1
+2021-04-14 18:58:57,158 - scrapper application - INFO - showing images of OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__2
+2021-04-14 18:59:14,501 - scrapper application - INFO - showing reviews for OBDIR_BOSE_Sweat_Proof_Sports_Magnetic_Earbuds_Boom_Beat_Ultra_Bass_Bluetooth_Headset__2
+2021-04-14 18:59:27,325 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 18:59:37,573 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 19:00:36,504 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 19:00:45,187 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 19:01:31,430 - scrapper application - INFO - search string : samsung m31, product quantity : 6, reviews quantitiy : 500
+2021-04-14 19:01:31,515 - scrapper application - INFO - finding search string in DB
+2021-04-14 19:01:34,498 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 19:01:43,218 - scrapper application - INFO - got 6 product Hyperlinks 
+2021-04-14 19:02:02,888 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31 (Ocean Blue, 64 GB)
+2021-04-14 19:12:17,055 - scrapper application - INFO - reviews saved in samsung_m31_1
+2021-04-14 19:12:34,219 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)
+2021-04-14 19:12:59,451 - scrapper application - INFO - reviews saved in samsung_m31_2
+2021-04-14 19:13:18,078 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31 (Iceberg blue, 128 GB)
+2021-04-14 19:23:38,731 - scrapper application - INFO - reviews saved in samsung_m31_3
+2021-04-14 19:23:55,487 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31 (Ocean Blue, 128 GB)
+2021-04-14 19:34:20,819 - scrapper application - INFO - reviews saved in samsung_m31_4
+2021-04-14 19:34:37,326 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31 (Space Black, 128 GB)
+2021-04-14 19:44:55,904 - scrapper application - INFO - reviews saved in samsung_m31_5
+2021-04-14 19:45:13,032 - scrapper application - INFO - product details saved to db for SAMSUNG Galaxy M31s (Mirage Blue, 128 GB)
+2021-04-14 19:46:45,862 - scrapper application - INFO - reviews saved in samsung_m31_6
+2021-04-14 19:47:16,075 - scrapper application - INFO - showing reviews for samsung_m31_1
+2021-04-14 19:47:20,840 - scrapper application - INFO - showing reviews for samsung_m31_2
+2021-04-14 19:47:33,998 - scrapper application - INFO - showing reviews for samsung_m31_3
+2021-04-14 19:47:39,675 - scrapper application - INFO - showing reviews for samsung_m31_4
+2021-04-14 19:47:45,883 - scrapper application - INFO - showing reviews for samsung_m31_5
+2021-04-14 19:47:53,516 - scrapper application - INFO - showing reviews for samsung_m31_6
+2021-04-14 19:48:01,015 - scrapper application - INFO - showing images of samsung_m31_6
+2021-04-14 19:48:05,892 - scrapper application - INFO - showing images of samsung_m31_5
+2021-04-14 19:48:10,573 - scrapper application - INFO - showing images of samsung_m31_4
+2021-04-14 19:48:13,869 - scrapper application - INFO - showing images of samsung_m31_3
+2021-04-14 19:48:16,798 - scrapper application - INFO - showing images of samsung_m31_2
+2021-04-14 19:48:21,213 - scrapper application - INFO - showing images of samsung_m31_1
+2021-04-14 19:52:24,675 - scrapper application - INFO - search string : iphone 12, product quantity : 2, reviews quantitiy : 200
+2021-04-14 19:52:24,748 - scrapper application - INFO - finding search string in DB
+2021-04-14 19:52:27,630 - scrapper application - INFO - DB does not exist retrieving the search string on flipkart page
+2021-04-14 19:52:37,186 - scrapper application - INFO - got 2 product Hyperlinks 
+2021-04-14 19:53:00,247 - scrapper application - INFO - product details saved to db for APPLE iPhone 12 (White, 64 GB)
+2021-04-14 19:57:14,057 - scrapper application - INFO - reviews saved in iphone_12_1
+2021-04-14 19:57:38,354 - scrapper application - INFO - product details saved to db for APPLE iPhone 12 (Black, 128 GB)
+2021-04-14 20:01:47,572 - scrapper application - INFO - reviews saved in iphone_12_2
+2021-04-14 20:02:12,683 - scrapper application - INFO - showing images of iphone_12_1
+2021-04-14 20:02:18,837 - scrapper application - INFO - showing images of iphone_12_2
+2021-04-14 20:02:24,736 - scrapper application - INFO - showing reviews for iphone_12_1
+2021-04-14 20:02:32,547 - scrapper application - INFO - showing reviews for iphone_12_2
+2021-04-14 20:02:59,336 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 20:03:08,944 - scrapper application - INFO - DB exist. Retrieving the result
+2021-04-14 20:03:14,608 - scrapper application - INFO - DB exist. Retrieving the result
