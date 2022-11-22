@@ -20,7 +20,7 @@ matplotlib==3.3.4
 numpy==1.19.5
 nums-from-string==0.1.2
 pandas==1.1.5
-Pillow==8.2.0
+Pillow==9.3.0
 pymongo==3.11.3
 pyparsing==2.4.7
 python-dateutil==2.8.1
